@@ -51,8 +51,10 @@ ProjectionSpatialKitのEditModeテスト38件成功を確認しています。
 
 ## ダウンロード
 
-配布ZIPはGitHub Releasesに置きます。
-[https://github.com/btakashi1028/ProjectionSpatialKit/releasestag/snapshot-2026-07-29](https://github.com/btakashi1028/ProjectionSpatialKit/releases/download/snapshot-2026-07-29/ProjectionSpatialKit-experimental-snapshot-2026-07-29.zip)
+記事執筆時点のZIPをGitHub Releasesからダウンロードできます。
+
+- [ProjectionSpatialKit experimental source snapshot（ZIP）](https://github.com/btakashi1028/ProjectionSpatialKit/releases/download/snapshot-2026-07-29/ProjectionSpatialKit-experimental-snapshot-2026-07-29.zip)
+- [Release notes](https://github.com/btakashi1028/ProjectionSpatialKit/releases/tag/snapshot-2026-07-29)
 
 ## 導入
 
