@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.tmp
+
+# NOTE: this is a Unity source-snapshot repository, not a complete Unity project.
+# Do NOT ignore .meta files — the copied Assets folder needs stable GUIDs.
+
+# Locally generated release archive. Upload it to GitHub Releases; do not commit it.
+dist/

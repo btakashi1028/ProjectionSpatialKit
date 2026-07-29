@@ -1,0 +1,22 @@
+{
+    "name": "ProjectionSpatialKit.Vision",
+    "rootNamespace": "ProjectionSpatialKit",
+    "references": [
+        "ProjectionSpatialKit.Runtime",
+        "Unity.InputSystem",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "OpenCvSharp.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "PROJECTION_SPATIAL_KIT_OPENCV"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

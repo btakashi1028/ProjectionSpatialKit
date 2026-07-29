@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e53349c704fab845ac753332b8b255b, type: 3}
+  m_Name: Standard 1080p
+  m_EditorClassIdentifier: ProjectionSpatialKit.Runtime::ProjectionSpatialKit.ProjectorDeviceProfile
+  modelName: Standard 1080p
+  notes: Generic standard-throw 1080p projector with a modest zoom.
+  resolution: {x: 1920, y: 1080}
+  brightnessLumens: 3500
+  throwRatioMin: 1.2
+  throwRatioMax: 1.6
+  lensShiftMaxHorizontal: 0.3
+  lensShiftMaxVertical: 0.6
